@@ -1,0 +1,14 @@
+FROM: account-security@bluewave-example.invalid
+TO: employee@bluewave-example.invalid
+SUBJECT: URGENT: Your account will be suspended
+
+Hello Employee,
+
+We detected an issue with your account. Your access may be suspended today unless you verify your account immediately.
+
+Please contact your IT security team using the company's official support channel.
+
+Thank you,
+Account Security Team
+
+NOTE: This is a fictional training email. No real link or credential collection is involved.
